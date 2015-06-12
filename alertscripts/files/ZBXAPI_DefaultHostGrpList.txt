@@ -1,0 +1,6 @@
+Discovered hosts
+Hypervisors
+Linux servers
+Templates
+Virtual machines
+Zabbix servers 

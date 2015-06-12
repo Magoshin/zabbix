@@ -1,0 +1,10 @@
+All_Templates
+Discovered hosts
+G4G_ALL
+HAB01
+HATC03
+Hypervisors
+Linux servers
+Templates
+Virtual machines
+Zabbix servers
